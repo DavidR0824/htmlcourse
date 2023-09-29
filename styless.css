@@ -1,0 +1,27 @@
+*{
+    margin: auto;
+    padding: 5px;
+    text-decoration: none;
+    text-align: left;
+    font-family: montserrat, sans-serif;
+    box-sizing: border-box;
+}
+
+.navegador ul li{
+    display: inline;
+    padding: 20px;
+}
+
+ul{
+    text-align: center;
+    background-color: bisque;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: aqua;
+}

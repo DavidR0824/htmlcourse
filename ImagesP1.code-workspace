@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Udemy/ImagesP1"
+		},
+		{
+			"path": "../../../Coding Proyects/Menu Bar P1"
+		},
+		{
+			"path": "../../../Udemy/Practive Nav"
+		},
+		{
+			"path": "../../../Udemy/Practice2 nav"
+		},
+		{
+			"path": "../../../Udemy/nueva practica"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ImagesP1"
+	}
+}
